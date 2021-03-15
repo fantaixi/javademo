@@ -1,0 +1,1 @@
+(()=>{var r={645:(r,t)=>{t.sayHi=function(){document.write("<h1>aaa</h1>")}}},t={};(function e(a){if(t[a])return t[a].exports;var n=t[a]={exports:{}};return r[a](n,n.exports,e),n.exports})(645).sayHi()})();

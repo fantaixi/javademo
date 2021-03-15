@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!--view层 模板-->
+<div id="app">
+    <!--传递给组件中的值：props-->
+    <fantaixi v-for="item in items" v-bind:abc="item"></fantaixi>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+
+    //component:定义一个Vue组件
+    Vue.component("fantaixi",{
+        props: ["abc"],
+        template: '<li>{{abc}}</li>'
+    })
+
+    var vm = new Vue({
+        el: "#app",
+        data: {
+            items: ["a","b","c"]
+        }
+    });
+</script>
+</body>
+</html>

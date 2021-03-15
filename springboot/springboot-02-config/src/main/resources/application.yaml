@@ -1,0 +1,34 @@
+person:
+  name: 1010@qq.com
+  age: ${random.int(10)}
+  happy: true
+  birth: 2020/10/10
+  map: {k1: v1,k2: v2}
+  list:
+    - code
+    - music
+  dog:
+    name: ${person.hello:hello}_上班
+    age: 6
+
+dog:
+  last-name: aaa
+  age: 8
+
+
+server:
+  port: 8081
+spring:
+  profiles:
+    active: dev
+debug: true
+---
+server:
+  port: 8082
+spring:
+  profiles: dev
+---
+server:
+  port: 8083
+spring:
+  profiles: test

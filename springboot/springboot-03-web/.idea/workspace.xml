@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24bad486-1c5b-4f6a-b5e9-e688ebb22884" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2\repository" />
+        <option name="mavenHome" value="C:\Users\Z\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n6UijC4MT2qscckS6Mp4N5x3Nu" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../github_workspace/blog-vue-springboot-master/blog-api" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea_workspace\springboot\springboot-03-web\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot03WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24bad486-1c5b-4f6a-b5e9-e688ebb22884" name="Default Changelist" comment="" />
+      <created>1610710163368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610710163368</updated>
+      <workItem from="1610710166418" duration="887000" />
+      <workItem from="1610781015157" duration="1241000" />
+      <workItem from="1610814218556" duration="7063000" />
+      <workItem from="1610860090647" duration="3624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="115" width="566" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1610861454584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="115" width="566" height="593" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610861454584" />
+    <state x="378" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610781915029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1610781915029" />
+    <state x="654" y="193" key="FileChooserDialogImpl" timestamp="1610710434936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610710434936" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.1.center" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.1.left" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state width="1493" height="238" key="GridCell.Tab.1.right" timestamp="1610865208619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610865208619" />
+    <state x="256" y="58" width="1180" height="701" key="new project wizard" timestamp="1610865200119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="256" y="58" width="1180" height="701" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610865200119" />
+  </component>
+</project>

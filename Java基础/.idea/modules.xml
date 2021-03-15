@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01基本数据类型/01基本数据类型.iml" filepath="$PROJECT_DIR$/01基本数据类型/01基本数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02循环/02循环.iml" filepath="$PROJECT_DIR$/02循环/02循环.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03对象/03对象.iml" filepath="$PROJECT_DIR$/03对象/03对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04泛型/04泛型.iml" filepath="$PROJECT_DIR$/04泛型/04泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05集合/05集合.iml" filepath="$PROJECT_DIR$/05集合/05集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06IO流/06IO流.iml" filepath="$PROJECT_DIR$/06IO流/06IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java基础.iml" filepath="$PROJECT_DIR$/Java基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射/反射.iml" filepath="$PROJECT_DIR$/反射/反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发/并发.iml" filepath="$PROJECT_DIR$/并发/并发.iml" />
+    </modules>
+  </component>
+</project>

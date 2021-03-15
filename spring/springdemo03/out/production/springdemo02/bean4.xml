@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   <bean class="com.at.spring5.bean.Orders" id="orders" init-method="initMethod" destroy-method="destroyMethod">
+      <property name="oname" value="手机"></property>
+   </bean>
+
+<!-- 会为所有bean创建前置或者后置处理器  -->
+   <bean class="com.at.spring5.bean.MyBeanPost" id="myBeanPost"></bean>
+</beans>

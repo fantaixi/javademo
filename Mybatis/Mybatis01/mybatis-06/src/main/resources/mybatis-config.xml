@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--  引入外部配置文件  -->
+    <properties resource="db.properties"/>
+<!--日志-->
+    <settings>
+<!--   标准的日志工厂实现 -->
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+<!--        <setting name="logImpl" value="LOG4J"/>-->
+    </settings>
+
+    <typeAliases>
+        <!--实体类取别名-->
+<!--  <typeAlias type="com.at.pojo.Teacher" alias="Teacher"></typeAlias>-->
+<!--   扫描包  -->
+        <package name="com.at.pojo"/>
+    </typeAliases>
+<!--名称空间-->
+    <environments default="development">
+        <environment id="development">
+<!--    事务管理器-->
+            <transactionManager type="JDBC"/>
+<!--    数据源 POOLED：连接池-->
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <mapper class="com.at.dao.TeacherMapper"></mapper>
+        <mapper class="com.at.dao.StudentMapper"></mapper>
+    </mappers>
+</configuration>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!--view层 模板-->
+<div id="app">
+    <p>{{currentTime1()}}</p>
+    <p>{{currentTime2}}</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    var vm = new Vue({
+        el: "#app",
+        //Model：数据
+        data: {
+          message: "sss"
+        },
+        methods: {
+            currentTime1: function () {
+                return Date.now();  //时间戳
+            }
+        },
+        computed: { //计算属性：methods和computed中的方法名不能重复，重复之后只会调用methods中的方法
+            currentTime2: function () {
+                return Date.now();  //时间戳
+            }
+        },
+    });
+</script>
+</body>
+</html>

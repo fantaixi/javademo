@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/custorm-server/custorm-server.iml" filepath="$PROJECT_DIR$/custorm-server/custorm-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provier-server/provier-server.iml" filepath="$PROJECT_DIR$/provier-server/provier-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a045f4e-220f-41a3-9594-24243cce6e4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2\repository" />
+        <option name="mavenHome" value="C:\Users\Z\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nEVbID8AW58144x0egHvYKWz4n" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot04DataApplication">
+    <configuration name="Springboot04DataApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-04-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot04DataApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04DataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot04DataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot04DataApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a045f4e-220f-41a3-9594-24243cce6e4d" name="Default Changelist" comment="" />
+      <created>1610955308944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610955308944</updated>
+      <workItem from="1610955311485" duration="6945000" />
+      <workItem from="1610971791982" duration="348000" />
+      <workItem from="1611082419160" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1610971440036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610971440036" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.1.center" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.1.left" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state width="1493" height="224" key="GridCell.Tab.1.right" timestamp="1610971440037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610971440037" />
+    <state x="178" y="0" key="new project wizard" timestamp="1610971436778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610971436778" />
+  </component>
+</project>

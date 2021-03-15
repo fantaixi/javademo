@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0af369be-985d-4af0-b630-da4b57de4271" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2\repository" />
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mWpqyIut63uFAchXm3gnHOpP9L" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springdemo04" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23333333" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_workspace\spring\springdemo06\lib" />
+      <recent name="E:\idea_workspace\spring\springdemo06\src" />
+      <recent name="E:\idea_workspace\spring\springdemo06\src\com\at\spring5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JTest4.testUser">
+    <configuration name="UserLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.at.spring5.test.UserLog" />
+      <module name="springdemo06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.at.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JTest4.testUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdemo06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.at.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.at.spring5.test" />
+      <option name="MAIN_CLASS_NAME" value="com.at.spring5.test.JTest4" />
+      <option name="METHOD_NAME" value="testUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJDBC.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdemo06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.at.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.at.spring5.test" />
+      <option name="MAIN_CLASS_NAME" value="com.at.spring5.test.testJDBC" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJDBC.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdemo06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.at.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.at.spring5.test" />
+      <option name="MAIN_CLASS_NAME" value="com.at.spring5.test.testJDBC" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJDBC.testAccount2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdemo06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.at.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.at.spring5.test" />
+      <option name="MAIN_CLASS_NAME" value="com.at.spring5.test.testJDBC" />
+      <option name="METHOD_NAME" value="testAccount2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JTest4.testUser" />
+        <item itemvalue="Application.UserLog" />
+        <item itemvalue="JUnit.testJDBC.test" />
+        <item itemvalue="JUnit.testJDBC.test2" />
+        <item itemvalue="JUnit.testJDBC.testAccount2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af369be-985d-4af0-b630-da4b57de4271" name="Default Changelist" comment="" />
+      <created>1609619395922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609619395922</updated>
+      <workItem from="1609619397044" duration="7570000" />
+      <workItem from="1609686867594" duration="3251000" />
+      <workItem from="1611511520820" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1609620112128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609620112128" />
+    <state x="445" y="71" width="646" height="599" key="FileChooserDialogImpl" timestamp="1611511663333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="71" width="646" height="599" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611511663333" />
+    <state width="1171" height="157" key="GridCell.Tab.0.bottom" timestamp="1609697823946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1171" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609697823946" />
+    <state width="1171" height="157" key="GridCell.Tab.0.center" timestamp="1609697823946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1171" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609697823946" />
+    <state width="1171" height="157" key="GridCell.Tab.0.left" timestamp="1609697823946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1171" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609697823946" />
+    <state width="1171" height="157" key="GridCell.Tab.0.right" timestamp="1609697823946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1171" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609697823946" />
+    <state width="1493" height="152" key="GridCell.Tab.1.bottom" timestamp="1609620951205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609620951205" />
+    <state width="1493" height="152" key="GridCell.Tab.1.center" timestamp="1609620951205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609620951205" />
+    <state width="1493" height="152" key="GridCell.Tab.1.left" timestamp="1609620951205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609620951205" />
+    <state width="1493" height="152" key="GridCell.Tab.1.right" timestamp="1609620951205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609620951205" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609688765220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609688765220" />
+    <state x="485" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609619467821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1609619467821" />
+    <state x="398" y="163" width="1074" height="660" key="new project wizard" timestamp="1609697816446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="163" width="1074" height="660" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1609697816446" />
+  </component>
+</project>

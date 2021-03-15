@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springMVC-01/springMVC-01.iml" filepath="$PROJECT_DIR$/SpringMVC/springMVC-01/springMVC-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springMVC-02/springMVC-02.iml" filepath="$PROJECT_DIR$/SpringMVC/springMVC-02/springMVC-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-03/springmvc-03.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-03/springmvc-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-04/springmvc-04.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-04/springmvc-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-05/springmvc-05.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-05/springmvc-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-06/springmvc-06.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-06/springmvc-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-07/springmvc-07.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-07/springmvc-07.iml" />
+    </modules>
+  </component>
+</project>

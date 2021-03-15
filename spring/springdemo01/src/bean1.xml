@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!-- 配置User对象创建   -->
+<!--    <bean id="user" class="com.at.spring5.User"></bean>-->
+
+<!-- set方法注入属性   -->
+<!--    <bean id="book" class="com.at.spring5.Book">-->
+<!--        <property name="name" value="葵花宝典"></property>-->
+<!--        <property name="author" value="岳不群"></property>-->
+<!--    </bean>-->
+
+<!--  有参构造器注入属性  -->
+<!--    <bean id="order" class="com.at.spring5.Order">-->
+<!--        <constructor-arg name="name" value="葵花宝典"></constructor-arg>-->
+<!--        <constructor-arg name="id" value="123"></constructor-arg>-->
+<!--    </bean>-->
+
+    <!-- set方法注入属性   通过 p命名简化 -->
+<!--        <bean id="book" class="com.at.spring5.Book" p:name="九阳神功" p:author="bbb" ></bean>-->
+<!--有特殊符号-->
+        <bean id="book" class="com.at.spring5.Book">
+            <property name="name" >
+<!-- 设置null-->
+                <null/>
+            </property>
+            <property name="author" value="岳不群"></property>
+            <property name="address">
+<!-- 或者使用转义 -->
+                <value><![CDATA[<<南京>>]]></value>
+            </property>
+        </bean>
+</beans>

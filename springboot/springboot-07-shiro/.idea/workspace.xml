@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="027a846b-9b77-4100-92fe-9a45293b8a8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2\repository" />
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nHvpdeXhDBuWZADzYcCiKo4eZw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quickstart" />
+      <module name="hello-shiro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Quickstart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027a846b-9b77-4100-92fe-9a45293b8a8e" name="Default Changelist" comment="" />
+      <created>1611060016683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611060016683</updated>
+      <workItem from="1611060017830" duration="1249000" />
+      <workItem from="1611061310786" duration="483000" />
+      <workItem from="1611061818930" duration="2603000" />
+      <workItem from="1611064469840" duration="1063000" />
+      <workItem from="1611079314190" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611060910587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611060910587" />
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1611064452739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611064452739" />
+    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1611064452739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611064452739" />
+    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1611064452738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611064452738" />
+    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1611064452739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611064452739" />
+    <state x="258" y="50" width="996" height="707" key="SettingsEditor" timestamp="1611064227297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="258" y="50" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611064227297" />
+    <state x="202" y="66" width="1180" height="642" key="new project wizard" timestamp="1611064622034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="66" width="1180" height="642" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1611064622034" />
+  </component>
+</project>
